@@ -1,7 +1,7 @@
-<h1> 
-Hi there, I'm Iván Carrillo García! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/icarrillog/)](https://www.linkedin.com/in/icarrillog/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#) ![](https://komarev.com/ghpvc/?username=icg-dev) [![GitHub followers](https://img.shields.io/github/followers/RussHDev?label=Follow&style=social)](https://github.com/RussHDev)</h1>
+ <h1>Hi there, I'm Iván Carrillo García! 👋 </h1>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/icarrillog/)](https://www.linkedin.com/in/icarrillog/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#) ![](https://komarev.com/ghpvc/?username=icg-dev) [![GitHub followers](https://img.shields.io/github/followers/RussHDev?label=Follow&style=social)](https://github.com/RussHDev)
 
 ## About Me
 
